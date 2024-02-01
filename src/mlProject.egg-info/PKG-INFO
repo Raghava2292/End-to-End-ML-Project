@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: mlProject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/Raghava2292/End-to-End-ML-Project
+Author: Raghava2292
+Author-email: raaghava92@gmail.com
+Project-URL: Bug Tracker, https://github.com/Raghava2292/End-to-End-ML-Project/issues
+
+# End-to-End-ML-Project
+An end to end ML Project about the prediction of Wine quality
